@@ -19,7 +19,7 @@ An interactive React-based application that allows users to draw squares by clic
 
 1. **Clone the Repository**
  - git clone https://github.com/prajwalbm29/DOT-TO-SQUARE.git
- -  cd interactive-square-drawing
+ -  cd DOT-TO-SQUARE
 
 2. **Install Dependency**
  - npm install
