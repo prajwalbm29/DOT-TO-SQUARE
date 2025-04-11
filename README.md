@@ -18,30 +18,30 @@ An interactive React-based application that allows users to draw squares by clic
 ## 🛠️ Setup & Installation
 
 1. **Clone the Repository**
-   git clone https://github.com/prajwalbm29/DOT-TO-SQUARE.git
-   cd interactive-square-drawing
+ - git clone https://github.com/prajwalbm29/DOT-TO-SQUARE.git
+ -  cd interactive-square-drawing
 
 2. **Install Dependency**
-    npm install
+ - npm install
 
 3. **Start the Development Server**
-    npm run dev
+ - npm run dev
 
 ---
 
 ## 🏗️ Architecture Overview
-React Hooks (useState, useEffect, useRef) are used to manage app state and interactions.
-Tailwind CSS for fast, utility-first styling.
-SVG elements are used for precise drawing and scalability.
-react-hot-toast provides real-time feedback for user actions.
+ - React Hooks (useState, useEffect, useRef) are used to manage app state and interactions.
+ - Tailwind CSS for fast, utility-first styling.
+ - SVG elements are used for precise drawing and scalability.
+ - react-hot-toast provides real-time feedback for user actions.
 
 ---
 
 ## ✨ Enhancements
-✅ Animated pulse when a square is completed
-✅ Toast success/error messages
-✅ Active and hover styles on buttons
-✅ Prevent clicks outside the canvas
-✅ Modularized components (Dot, Line)
+ - ✅ Animated pulse when a square is completed
+ - ✅ Toast success/error messages
+ - ✅ Active and hover styles on buttons
+ - ✅ Prevent clicks outside the canvas
+ - ✅ Modularized components (Dot, Line)
 
 ---
