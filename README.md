@@ -4,6 +4,12 @@ An interactive React-based application that allows users to draw squares by clic
 
 ---
 
+## 🔗 Live Demo
+
+👉 [Try it here!](https://dot-to-square.onrender.com)
+
+---
+
 ## 🚀 Features
 
 - 🖱️ Click to draw dots and connect them with lines
